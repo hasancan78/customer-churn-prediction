@@ -43,5 +43,6 @@ Projeyi yerel ortamınızda çalıştırmak için:
    git clone <REPOSITORY_LINKI>
    cd <KLASOR_ADI>
 2. Gerekli kütüphaneleri yükleyin ve python dosyasını çalıştırın:
+   ```bash
    py -m pip install -r requirements.txt
    py customer_churn.py
